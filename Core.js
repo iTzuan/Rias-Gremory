@@ -1,34 +1,3 @@
-/* ---------------------------------------------------------------------------------/
-/                                                                                   /
-/             d8888 888    888                        888b     d888 8888888b.       /
-/            d88888 888    888                        8888b   d8888 888  "Y88b      /
-/           d88P888 888    888                        88888b.d88888 888    888      /
-/          d88P 888 888888 888  8888b.  .d8888b       888Y88888P888 888    888      /
-/         d88P  888 888    888     "88b 88K           888 Y888P 888 888    888      /
-/        d88P   888 888    888 .d888888 "Y8888b.      888  Y8P  888 888    888      /
-/       d8888888888 Y88b.  888 888  888      X88      888   "   888 888  .d88P      /
-/      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
-/                                                                                   / 
-/-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
-/-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
-/                                                                                   /
-/ 1. Pratyush - https://github.com/pratyush4932                                     /
-/ 2. Ahmii - https://github.com/Ahmii-kun                                          /               
-/ 3. Kai - https://github.com/Kai0071                                               /                    
-/ 4. Devime - https://github.com/Devime69                                           /
-/ 5. Jay JayOps - https://github.com/jayjay-ops                                     /
-/                                                                                   /
-/ ----------------------------------------------------------------------------------/
-/                                                                                   /
-/      With all of our hard work and defication you can enjoy this awesome bot!     /  
-/                                                                                   / 
-/----------------------------------------------------------------------------------*/
-
-
 require("./index.js");
 require("./config.js");
 require("./BotCharacters.js");
@@ -420,12 +389,12 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
 
         const flags = args.filter((arg) => arg.startsWith("--"));
         if (body.startsWith(prefix) && !icmd) {
-            let mikutext = `No such command programmed *${pushname}* senpai! Type *${prefix}help* or press the button below to get my full command list!\n`;
+            let mikutext = `*ᴏᴏᴘꜱ ɴᴏ ꜱᴜᴄʜ ᴄᴏᴍᴍᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍᴇᴅ ꜱᴇɴᴘᴀɪ! ʕ•̫͡•ʔ*`;
 
             let Button = [{
                 buttonId: `${prefix}help`,
                 buttonText: {
-                    displayText: `${prefix}help`
+                    displayText: `〘 ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜱᴇɴᴘᴀɪ 〙`
                 },
                 type: 1,
             },];
@@ -480,7 +449,7 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
             var buttonss = [{
                 buttonId: `${prefix}help`,
                 buttonText: {
-                    displayText: `${prefix}help`
+                    displayText: `〘 ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜱᴇɴᴘᴀɪ 〙`
                 },
                 type: 1,
             },];
@@ -498,7 +467,7 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
             };
             await Miku.sendMessage(m.from, reactionMess).then(() => {
                 return Miku.sendMessage(m.from, buttonmess, {
-                    react: "🍁",
+                    react: "🐼",
                     quoted: m
                 });
             });
