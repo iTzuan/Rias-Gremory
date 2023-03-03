@@ -6,7 +6,7 @@ module.exports = {
   desc: "Hentai picture of vampire waifu", 
   category: "Nsfw",
   usage: `hvampire`,
-  react: "🍁",
+  react: "🎗️",
   start: async (Miku, m, { prefix,NSFWstatus }) => {
 
     if (NSFWstatus == "false") return m.reply(`This group is not NSFW enabled!\n\nTo configure NSFW mode, type:\n\n*${prefix}nsfw*`);
@@ -29,7 +29,7 @@ module.exports = {
     ];
     let bmffg = {
       image: {url: imgURL},
-      caption: `\n*🎀 FantoX APIs 🎀*\n\n*🧩 API link:* \nhttps://fantox-api.vercel.app\n`,
+      caption: `\n*🕯️✨ʀᴇᴅᴢᴇᴏꭗ✨🕯️*\n`,
       footer: `*${botName}*`,
       buttons: Button,
       headerType: 4,
