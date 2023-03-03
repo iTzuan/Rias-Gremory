@@ -4,26 +4,26 @@ module.exports = {
     desc: "Get full NSFW List", 
     category: "Nsfw",
     usage: `hmaid`,
-    react: "🍁",
+    react: "🎗️",
     start: async (Miku, m, { prefix,NSFWstatus }) => {
   
       if (NSFWstatus == "false") return m.reply(`This group is not NSFW enabled!\n\nTo configure NSFW mode, type:\n\n*${prefix}nsfw*`);
 
-      let ntext = `\n╭────ꕥ NSFW Menu ꕥ────╮
+      let ntext = `\n╭────ꕥ ɴꜱғᴡ ꕥ────╮
 ├
 ├・ 💦 ᴘᴜꜱꜱʏ, ꜱᴘʀᴇᴀᴅᴘᴜꜱꜱʏ,
-├・ 💦 ɢᴇɴꜱʜɪɴ, ꜱQᴜɪʀᴛ,
+├・ 💦 ɢᴇɴꜱʜɪɴ, ꜱϙᴜɪʀᴛ,
 ├・ 💦 ɢʟᴀꜱꜱᴇꜱ, ꜱᴜɴɢʟᴀꜱꜱᴇꜱ,
 ├・ 💦 ꜱᴡɪᴍꜱᴜɪᴛ, ꜱᴄʜᴏᴏʟꜱᴡɪᴍꜱᴜɪᴛ,
 ├・ 💦 ʜᴏʟᴏ ʟɪᴠᴇ, ᴀꜱꜱ,
 ├・ 💦 ᴜɴᴅᴇʀᴡᴇᴀʀ, ɴɪᴘᴘʟᴇꜱ,
 ├・ 💦 ᴜɴᴄᴇɴꜱᴏʀᴇᴅ, ɴɪᴘᴘʟᴇꜱ,
-├・ 💦 ᴜɴᴄᴇɴꜱᴏʀᴇᴅ, ꜱᴇx,
-├・ 💦 ꜱᴇx2, ꜱᴇx3,
+├・ 💦 ᴜɴᴄᴇɴꜱᴏʀᴇᴅ, ꜱᴇꭗ,
+├・ 💦 ꜱᴇꭗ2, ꜱᴇꭗ3,
 ├・ 💦 ʙʟᴏɴᴅᴇ, ᴛᴡɪɴᴛᴀɪʟꜱ,
 ├・ 💦 ʙʀᴇᴀꜱᴛꜱ, ᴛʜɪɢʜʜɪɢʜꜱ,
 ├・ 💦 ꜱᴋɪʀᴛ, ɢᴀᴍᴇᴄɢ,
-├・ 💦 ᴀɴɪᴍᴀʟᴇᴀʀꜱ, ꜰᴏxɢɪʀʟ,
+├・ 💦 ᴀɴɪᴍᴀʟᴇᴀʀꜱ, ꜰᴏꭗɢɪʀʟ,
 ├・ 💦 ᴅʀᴇꜱꜱ, ꜱᴄʜᴏᴏʟᴜɴɪꜰᴏʀᴍ,
 ├・ 💦 ᴛᴡᴏɢɪʀʟꜱ, ɢʟᴏᴠᴇꜱ,
 ├・ 💦 ᴠᴏᴄᴀʟᴏɪᴅ, ᴛᴏᴜʜᴏᴜ,
@@ -66,7 +66,7 @@ module.exports = {
 ├
 ╰──────────────────╯\n\n
 
-🎀 Powered By: *FantoX APIs* 🎀\n\n*🧩 API link:* \nhttps://fantox-api.vercel.app\n`
+🎀 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ꜱᴄᴏᴛᴄʜ* 🎀\n\n`
 
 await Miku.sendMessage(m.from, {image: {url: botImage5}, caption: ntext}, { quoted: m })
     }
