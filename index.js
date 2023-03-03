@@ -135,7 +135,7 @@ async function startMiku() {
         whitespaceBreak: true
     }), 'yellow'))
 
-    console.log(color('\nayo!! I'm Scotch the devloper of this Bot.\n\nThanks for using: Rias Gremory.', 'aqua'))
+    console.log(color('\nyo!! I am Scotch the devloper of this Bot.\n\nThanks for using: Rias Gremory.', 'aqua'))
     console.log(color('\nYou can follow me on GitHub: REDZEOX\n\n', 'aqua'))
 
 
