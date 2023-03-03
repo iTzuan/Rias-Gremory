@@ -5,7 +5,7 @@ module.exports = {
     name: "script",
     alias: ["repo","sc","sourcecode"],
     desc: "Say hello to bot.",
-    react: "🍁",
+    react: "🤬",
     category: "Core",
     start: async(Miku, m,{pushName,prefix}) => {
         let picURL = fs.readFileSync('./Page/BG.jpg')
