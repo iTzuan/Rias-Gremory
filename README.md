@@ -1,15 +1,10 @@
-<a href="https://ibb.co/Kx3tXGG"><img src="https://i.ibb.co/pj9HxPP/20230303-141015.jpg" alt="20230303-141015" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting russia</a><br />
-
 <h1 align="center"> 〘 RIAS GREGORY 〙
 
 </h1>
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Atlas-MD">
-    <img src="https://i.ibb.co/r2dyh2S/20230213-154752.jpg">
-  </a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a href="https://ibb.co/Kx3tXGG"><img src="https://i.ibb.co/pj9HxPP/20230303-141015.jpg" alt="20230303-141015" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 <p align="center"> 
  ʜᴇʟʟᴏ ᴇᴠᴇʀʏᴏɴᴇ ᴀ ᴡᴀʀᴍ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀʟʟ ᴍʏ ғʀɪᴇɴᴅꜱ ʜᴇʀᴇ ᴘʀᴇꜱᴇɴᴛɪɴɢ ᴀ ɴᴇᴡ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ʀᴇᴅᴢᴇᴏꭗ ᴡʜɪᴄʜ ᴡɪʟʟ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴡᴏʀᴋ ᴇᴀꜱɪᴇʀ. ɢᴜʏ'ꜱ ʜᴀᴠᴇ ᴀ ɢᴏᴏᴅ ᴅᴀʏ ᴛʜᴇ ᴀᴛʟᴀꜱ-ᴍᴅ ᴡᴀꜱ ᴛʜᴇ ᴍᴀɪɴ ᴘᴜʀᴘᴏꜱᴇ ɪꜱ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴇꭗᴛ ʟᴇᴠᴇʟ ᴀᴛʟᴀꜱ-ᴍᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴇᴠɪᴄᴇꜱ.
