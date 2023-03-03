@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FantoX001/Atlas-MD.git"
+    "url": "git+https://github.com/REDZEOX/Rias-Gremory.git"
   },
   "keywords": [
     "bot"
   ],
-  "author": "Fanto001",
+  "author": "REDZEOX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FantoX001/Atlas-MD/issues"
+    "url": "https://github.com/REDZEOX/Rias-Gremory/issues"
   },
-  "homepage": "https://github.com/FantoX001/Atlas-MD#readme",
+  "homepage": "https://github.com/REDZEOX/Rias-Gremory#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
