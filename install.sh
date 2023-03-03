@@ -5,4 +5,4 @@ rm -rf session.json
 rm -rf node_modules
 yarn
 npm start
-echo "ATLAS MD and all of it's Dependencies are Installed Successfully!"
+echo "Rias Gremory and all of it's Dependencies are Installed Successfully!"
