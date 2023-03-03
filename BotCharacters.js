@@ -4,7 +4,7 @@ const { mkchar } = require("./Database/dataschema.js");
 
 /* ---Added Anime Character list---  /
 
- 0 --- Atlas MD
+ 0 --- Rias Gremory
  1 --- Power
  2 --- Makima
  3 --- Denji
@@ -33,14 +33,14 @@ Image Source: https://wallpapercave.com/
 
 
 global.charID0 = {
-    botName : "Atlas MD",
+    botName : "Rias",
     botVideo : fs.readFileSync("./Assets/atlas.mp4"),
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage1 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage2 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage3 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage4 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage5 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage6 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
 }
 
 global.charID1 = {
@@ -66,14 +66,14 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "Denji MD",
-  botVideo : fs.readFileSync("./Assets/denji.mp4"),
-  botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
-  botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
-  botImage3 : "https://images.alphacoders.com/128/1286017.jpg",
-  botImage4 : "https://images6.alphacoders.com/128/1289086.jpg",
-  botImage5 : "https://images2.alphacoders.com/124/1247132.jpg",
-  botImage6 : "https://images2.alphacoders.com/128/1286464.jpg",
+  botName : "Rias Gremory",
+  botVideo : fs.readFileSync("./Assets/Rias.mp4"),
+  botImage1 : "https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg",
+  botImage2 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/wp/wp1864369.png",
+  botImage3 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/wp/wp4993300.jpg",
+  botImage4 : "https://wallpapercave.com/cdn-cgi/mirage/4060d9c58e8c34505929baac680386a213cfd243a199f1ff8f223c312de6c835/1280/https://wallpapercave.com/wp/wp4993301.png",
+  botImage5 : "https://c4.wallpaperflare.com/wallpaper/178/703/724/anime-high-school-dxd-rias-gremory-hd-wallpaper-preview.jpg",
+  botImage6 : "https://i.ibb.co/pXFFbzN/Image-result-for-rias-gremory-wallpaper-4k.jpg",
 }
 
 global.charID4 = {
