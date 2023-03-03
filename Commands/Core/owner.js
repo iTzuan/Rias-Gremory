@@ -31,10 +31,10 @@ module.exports = {
             let xyz = xy.concat(yz);
 
             ment = [ownerList.map(owner => owner+"@s.whatsapp.net"), mention];
-            let textM = `             🧣  *${botName} Mods*  🧣\n\n`;
+            let textM = `             🧣  *$ᴍᴏᴅꜱ*  🧣\n\n`;
 
             if(ownerList.length == 0){
-              textM = "*No Mods Added !*";
+              textM = "*ɴᴏ ᴍᴏᴅꜱ ᴀᴅᴅᴇᴅ !*";
             }
 
             for (var i = 0; i < ownerList.length; i++) {
@@ -48,7 +48,7 @@ module.exports = {
             } 
             
             if(modlistString != "" || ownerList.length != 0){
-               textM += `\n\n📛 *Don't Spam them to avoid Blocking !*\n\n🎀 For any help, type *${prefix}support* and ask in group.\n\n*💫 Thanks for using ${botName}. 💫*\n`
+               textM += `\n\n📛 *ᴅᴏɴ'ᴛ ꜱᴘᴀᴍ ᴛʜᴇᴍ ᴛᴏ ᴀᴠᴏɪᴅ ʙʟᴏᴄᴋɪɴɢ !*\n\n🎀 ғᴏʀ ᴀɴʏ ʜᴇʟᴘ, ᴛʏᴘᴇ *${prefix}ꜱᴜᴘᴘᴏʀᴛ* ᴀɴᴅ ᴀꜱᴋ ɪɴ ɢʀᴏᴜᴘ.\n\n*💫 ᴛʜᴀɴᴋꜱ ғᴏʀ ᴜꜱɪɴɢ ${botName}. 💫*\n`
             }
             
             return Miku.sendMessage( 
@@ -59,7 +59,7 @@ module.exports = {
 
           } catch (err) { 
             console.log(err);
-            return Miku.sendMessage(m.from, { text: `An internal error occurred while fetching the mod list.` }, { quoted: m });
+            return Miku.sendMessage(m.from, { text: `📌ᴀɴ ɪɴᴛᴇʀɴᴀʟ ᴇʀʀᴏʀ ᴏᴄᴄᴜʀʀᴇᴅ ᴡʜɪʟᴇ ғᴇᴛᴄʜɪɴɢ ᴛʜᴇ ᴍᴏᴅ ʟɪꜱᴛ.` }, { quoted: m });
           } 
         }, 
     }
