@@ -58,7 +58,7 @@ const readCommands = () => {
 readCommands()
 
 async function startMiku() {
-    console.log(color(figlet.textSync('Miku Bot MD', {
+    console.log(color(figlet.textSync('Rias Gremory MD', {
         font: 'Pagga',
         horizontalLayout: 'default',
         vertivalLayout: 'default',
@@ -66,8 +66,8 @@ async function startMiku() {
         whitespaceBreak: true
     }), 'yellow'))
 
-    console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot', 'aqua'))
-    console.log(color('\nYou can follow me on GitHub: FantoX001', 'aqua'))
+    console.log(color('\nHello, I am REDZEOX, the main developer of this bot.\n\nThanks for using: Rias Gremory Bot', 'aqua'))
+    console.log(color('\nYou can follow me on GitHub: REDZEOX', 'aqua'))
 
 
 
@@ -77,7 +77,7 @@ async function startMiku() {
     const Miku = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Miku by: Fantox', 'Safari', '1.0.0'],
+        browser: ['Rias Gremory : REDZEOX', 'Safari', '1.0.0'],
         auth: state,
         version
     })
