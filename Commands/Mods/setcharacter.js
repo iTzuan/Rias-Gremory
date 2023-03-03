@@ -12,7 +12,7 @@ module.exports = {
     desc: "Ban a member", 
     category: "core", 
     usage: "setchar 0/1/2/3/4/5/6/7", 
-    react: "🎀", 
+    react: "🍑", 
     start: async ( 
       Miku, 
       m, 
@@ -28,10 +28,10 @@ module.exports = {
 
 /* ---Added Anime Characters list---  /
 
- 0 --- Atlas MD
+ 0 --- Rias
  1 --- Power
  2 --- Makima
- 3 --- Denji
+ 3 --- Rias Gremory
  4 --- Zero Two
  5 --- Chika
  6 --- Miku
@@ -51,12 +51,12 @@ module.exports = {
 
 */
 
-      let botNames = ['Atlas MD', 'Power MD', 'Makima MD', 'Denji MD', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
+      let botNames = ['Rias', 'Power MD', 'Makima MD', 'Rias Gremory', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
       let botLogos =[
-        'https://wallpapercave.com/wp/wp5924545.jpg',
+        'https://i.ibb.co/pj9HxPP/20230303-141015.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
         'https://images5.alphacoders.com/126/1264439.jpg',
-        'https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1',
+        'https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg',
         'https://images3.alphacoders.com/949/949253.jpg',
         'https://images4.alphacoders.com/100/1002134.png',
         'https://wallpapercave.com/wp/wp10524580.jpg',
