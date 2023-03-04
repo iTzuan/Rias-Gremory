@@ -53,7 +53,7 @@ module.exports = {
 
       let botNames = ['Rias', 'Power MD', 'Makima MD', 'Rias Gremory', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
       let botLogos =[
-        'https://i.ibb.co/pj9HxPP/20230303-141015.jpg',
+        'https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
         'https://images5.alphacoders.com/126/1264439.jpg',
         'https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg',
