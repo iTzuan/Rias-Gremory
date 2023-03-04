@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
-    <a href="https://ibb.co/Kx3tXGG"><img src="https://i.ibb.co/pj9HxPP/20230303-141015.jpg" alt="20230303-141015" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+    <a href="https://ibb.co/kcRgHXZ"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias-Gremory" border="0"></a>
 
 <p align="center"> 
  ʜᴇʟʟᴏ ᴇᴠᴇʀʏᴏɴᴇ ᴀ ᴡᴀʀᴍ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀʟʟ ᴍʏ ғʀɪᴇɴᴅꜱ ʜᴇʀᴇ ᴘʀᴇꜱᴇɴᴛɪɴɢ ᴀ ɴᴇᴡ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ʀᴇᴅᴢᴇᴏꭗ ᴡʜɪᴄʜ ᴡɪʟʟ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴡᴏʀᴋ ᴇᴀꜱɪᴇʀ. ɢᴜʏ'ꜱ ʜᴀᴠᴇ ᴀ ɢᴏᴏᴅ ᴅᴀʏ ᴛʜᴇ ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ ᴡᴀꜱ ᴛʜᴇ ᴍᴀɪɴ ᴘᴜʀᴘᴏꜱᴇ ɪꜱ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴇꭗᴛ ʟᴇᴠᴇʟ ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴇᴠɪᴄᴇꜱ.
