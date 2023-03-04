@@ -35,7 +35,7 @@
 <summary>🎐 ᴅᴇᴘʟᴏʏ ᴀᴛʟᴀꜱ-ᴍᴅ ɪɴ ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ 🎐</summary>
 
 <h1 align="center"> 
-<a href="https://railway.app/new/template/n1D5wt?referralCode=nRl6ST">
+<a href="https://railway.app/new/template/7jrGER?referralCode=fYRZyi">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="150px">
 </a>
 </p>
