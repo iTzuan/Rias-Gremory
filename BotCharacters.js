@@ -4,10 +4,10 @@ const { mkchar } = require("./Database/dataschema.js");
 
 /* ---Added Anime Character list---  /
 
- 0 --- Rias Gremory
+ 0 --- Rias
  1 --- Power
  2 --- Makima
- 3 --- Denji
+ 3 --- Rias Gremory
  4 --- Zero Two
  5 --- Chika
  6 --- Miku
@@ -35,12 +35,12 @@ Image Source: https://wallpapercave.com/
 global.charID0 = {
     botName : "Rias",
     botVideo : fs.readFileSync("./Assets/atlas.mp4"),
-    botImage1 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
-    botImage2 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
-    botImage3 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
-    botImage4 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
-    botImage5 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
-    botImage6 : "https://i.ibb.co/pj9HxPP/20230303-141015.jpg",
+    botImage1 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage2 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage3 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage4 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage5 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage6 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
 }
 
 global.charID1 = {
