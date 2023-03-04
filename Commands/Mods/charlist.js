@@ -10,7 +10,7 @@ module.exports = {
     let txt = `       『  *Bot Charactes*  』\n\n\n_0 - Rias_\n\n_1 - Power MD_\n\n_2 - Makima MD_\n\n_3 - Rias Gremory_\n\n_4 - Zero Two_\n\n_5 - Chika MD_\n\n_6 - Miku MD_\n\n_7 - Marin MD_\n\n_8 - Ayanokoji MD_\n\n_9 - Ruka MD_\n\n_10 - Mizuhara MD_\n\n_11 - Rem MD_\n\n_12 - Sumi MD_\n\n_13 - Kaguya MD_\n\n_14 - Yumeko MD_\n\n_15 - Kurumi MD_\n\n_16 - Mai MD_\n\n_17 - Yor MD_\n\n_18 - Shinbou MD_\n\n_19 - Eiko MD_\n\n\nExample: *${prefix}setchar 5* or choose button below.\n`;
 
     let botLogos = [
-        'https://i.ibb.co/pj9HxPP/20230303-141015.jpg',
+        'https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
         'https://images5.alphacoders.com/126/1264439.jpg',
         'https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg',
